@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Zahar!
 
-<!--
-**eatyourcereal13/eatyourcereal13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend | DevOps | ML Engineer
 
-Here are some ideas to get you started:
+I have commercial experience developing and operating backend services in production
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+### Python
+- FastAPI
+- Django / DRF
+- Pytorch
+- Pandas
+- Numpy
+- Matplotlib
+- AsyncIO
+- Pytest
+
+### Databases
+- PostgreSQL
+- Redis
+- MongoDB
+- Firebase
+- ClickHouse
+- Minio
+
+### Infra / DevOps
+- Docker
+- GitLab CI/CD
+- Prometheus
+- Grafana
+- Linux
+
+## What I do:
+- Design and develop backend services
+- Optimize SQL and application perfomance
+- Build CI/CD pipelines
+- Work with monitoring and production environments
