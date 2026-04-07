@@ -1,6 +1,6 @@
 # Hi, I'm Zahar!
 
-Backend | DevOps | ML Engineer
+Backend | DevOps
 
 I have commercial experience developing and operating backend services in production
 
@@ -30,6 +30,9 @@ I have commercial experience developing and operating backend services in produc
 - Prometheus
 - Grafana
 - Linux
+- K8S
+- Terraform
+- Ansible
 
 ## What I do:
 - Design and develop backend services
