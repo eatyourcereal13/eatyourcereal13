@@ -1,6 +1,6 @@
 # Hi, I'm Zahar!
 
-Backend | DevOps
+Backend | DevOps | Starting ML
 
 I have commercial experience developing and operating backend services in production
 
@@ -9,20 +9,17 @@ I have commercial experience developing and operating backend services in produc
 ### Python
 - FastAPI
 - Django / DRF
-- Pytorch
 - Pandas
 - Numpy
-- Matplotlib
-- AsyncIO
 - Pytest
 
 ### Databases
 - PostgreSQL
 - Redis
 - MongoDB
-- Firebase
 - ClickHouse
 - Minio
+- Yandex Cloud
 
 ### Infra / DevOps
 - Docker
